@@ -121,6 +121,7 @@ Library: lib_burst_generated
 --compilation-defines=PUN_2_0_OR_NEWER
 --compilation-defines=PUN_2_OR_NEWER
 --compilation-defines=PUN_2_19_OR_NEWER
+--compilation-defines=DREAMTECK_SPLINES
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -170,6 +171,8 @@ Library: lib_burst_generated
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.HighDefinition.Runtime.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.InputSystem.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\PlayFab.dll
+--root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Dreamteck.Utilities.dll
+--root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Dreamteck.Splines.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\UnityUIExtensions.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
@@ -184,6 +187,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\AuraToolkit.UI.dll
+--root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.ProGrids.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.VisualEffectGraph.Runtime.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.Postprocessing.Runtime.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\AuraToolkit.Network.dll
@@ -327,6 +331,7 @@ Library: lib_burst_generated
 --compilation-defines=PUN_2_0_OR_NEWER
 --compilation-defines=PUN_2_OR_NEWER
 --compilation-defines=PUN_2_19_OR_NEWER
+--compilation-defines=DREAMTECK_SPLINES
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -376,6 +381,8 @@ Library: lib_burst_generated
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.HighDefinition.Runtime.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.InputSystem.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\PlayFab.dll
+--root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Dreamteck.Utilities.dll
+--root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Dreamteck.Splines.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\UnityUIExtensions.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
@@ -390,6 +397,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\AuraToolkit.UI.dll
+--root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.ProGrids.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.VisualEffectGraph.Runtime.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\Unity.Postprocessing.Runtime.dll
 --root-assembly=C:\Drone-Arena\DroneArena\Temp\StagingArea\Data\Managed\AuraToolkit.Network.dll
